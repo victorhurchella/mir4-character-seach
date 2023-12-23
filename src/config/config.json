@@ -1,0 +1,12 @@
+{
+  "webhookURL": "",
+  "webhookError": "",
+
+  "levMin": "0",
+  "levMax": "0",
+  "powerMin": "0",
+  "powerMax": "0",
+  "priceMin": "0",
+  "priceMax": "0",
+  "maxPageNumberRequest": "15"
+}
